@@ -26,6 +26,7 @@ The application provides a centralized interface for accessing course design mod
 
 ## Web page
   <img width="915" height="1191" alt="image" src="https://github.com/user-attachments/assets/68c9a2c9-9a85-4679-b643-6ac89ed64699" />
+<img width="1086" height="665" alt="image" src="https://github.com/user-attachments/assets/e12eb9eb-14e8-46b9-bb03-44338736a362" />
 
 
 ## 3. Key Features
